@@ -8,7 +8,7 @@ Basta simplesmente instanciar a classe utilizando uma Rede Neural e utilizar o m
 ```
 RedeNeural redeNeural = ...;
 RedeNeuralGrafical redeNeuralGrafical = new RedeNeuralGrafical(redeNeural);
-redeNeuralGrafical.atualiza();
+redeNeuralGrafical.atualizar();
 ```
 
 ## Opcionais
